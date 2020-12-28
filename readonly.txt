@@ -1,0 +1,29 @@
+Requirement of project :
+
+Project Name : Student Info
+
+1) The whole project is done by using tkinter and python programming language
+
+2) I used 3.7 python version for project
+
+3) For Database programming i need Server and Database. For installed XAMPP which is connected with Apache Server and Mysql Database.
+
+4) Then college database is created in localhost phpmyadmin through crome browser in mysql.
+
+5) In this 'college' database, i created only one table, table name is stud.
+
+6) stud table used six field (studid               (int),
+		           firstname          (varchar),
+                                              surname           (varchar),
+		           address             (varchar),
+		          gender                (varchar),
+		          mobile                 (int)    )
+
+7) tkinter used label and textbox and also used button and msg box.
+
+
+ 
+
+
+
+		
